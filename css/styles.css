@@ -1,5 +1,8 @@
 body{
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Raleway',serif;
+  margin: 0;
+  padding: 0;
+  font-size: 400px;
 }
 img{float:left;
 
@@ -16,3 +19,9 @@ h2{
 .p1{
   font-size: 40px;
 }
+.test-box {background-color: white;
+    width: 300px;
+    border: 25px solid blue;
+    padding: 25px;
+    margin: 25px;
+  }
